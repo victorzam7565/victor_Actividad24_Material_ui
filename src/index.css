@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.tarjetas{
+  display: inline-block;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+#tarjeta{
+display: inline-block;
+  margin-right:auto;
+  margin-left:auto;
+
+}
